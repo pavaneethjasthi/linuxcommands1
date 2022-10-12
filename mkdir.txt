@@ -1,0 +1,10 @@
+⁭LINUX COMMANDS:-
+ command : MKDIR
+mkdir command in Linux allows the user to create directories .
+options:-
+-v = This option displays a verbose information of each directory that is created.
+example:- mkdir --version
+-p = This option enables the user to create parent directories as per the requirement.
+-m =  This -m option is used to set the mode of the directory .
+-z =  This option is used to set defaul SELinux rules on a particular directory at the time of creation.
+-help = This option will display the information of the mkdir command.
